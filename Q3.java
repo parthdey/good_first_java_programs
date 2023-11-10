@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Q3{
     public static void main(String[] args) {
         //        Java Program to Multiply two Floating Point Numbers
